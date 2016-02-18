@@ -1,0 +1,1 @@
+It is proposed to design receive cum display toolkit which can be programmed from an authorized mobile phone. The message to be displayed is sent through a SMS from an authorized transmitter. The toolkit receives the SMS, validates the sending Mobile Identification Number (MIN) and displays the desired information after necessary code conversion.
